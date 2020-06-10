@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/React-Appliaction/static/css/main.1337df22.chunk.css",
+    "main.js": "/React-Appliaction/static/js/main.00787c4a.chunk.js",
+    "main.js.map": "/React-Appliaction/static/js/main.00787c4a.chunk.js.map",
+    "runtime-main.js": "/React-Appliaction/static/js/runtime-main.a25fd849.js",
+    "runtime-main.js.map": "/React-Appliaction/static/js/runtime-main.a25fd849.js.map",
+    "static/js/2.f16a1d26.chunk.js": "/React-Appliaction/static/js/2.f16a1d26.chunk.js",
+    "static/js/2.f16a1d26.chunk.js.map": "/React-Appliaction/static/js/2.f16a1d26.chunk.js.map",
+    "index.html": "/React-Appliaction/index.html",
+    "precache-manifest.5892b032fe8d799b64a3e3dbcf671abc.js": "/React-Appliaction/precache-manifest.5892b032fe8d799b64a3e3dbcf671abc.js",
+    "service-worker.js": "/React-Appliaction/service-worker.js",
+    "static/css/main.1337df22.chunk.css.map": "/React-Appliaction/static/css/main.1337df22.chunk.css.map",
+    "static/js/2.f16a1d26.chunk.js.LICENSE.txt": "/React-Appliaction/static/js/2.f16a1d26.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/React-Appliaction/static/media/bg.8fa4edfe.jpg",
+    "static/media/Footer.css": "/React-Appliaction/static/media/youtube-brands.e50e87fe.svg",
+    "static/media/facebook-profile.svg": "/React-Appliaction/static/media/facebook-profile.7dbee633.svg",
+    "static/media/instagram-profile.svg": "/React-Appliaction/static/media/instagram-profile.94d81ac6.svg",
+    "static/media/Content.css": "/React-Appliaction/static/media/item-1.05f302b1.jpg",
+    "static/media/Posts.css": "/React-Appliaction/static/media/item-post.cea6f6e1.jpg",
+    "static/media/location-icon.svg": "/React-Appliaction/static/media/location-icon.d803698b.svg",
+    "static/media/Profile.css": "/React-Appliaction/static/media/slide-1.16f915de.jpg",
+    "static/media/profile-icon.svg": "/React-Appliaction/static/media/profile-icon.899cedbc.svg",
+    "static/media/rating-icon.svg": "/React-Appliaction/static/media/rating-icon.879a3484.svg",
+    "static/media/vk-profile.svg": "/React-Appliaction/static/media/vk-profile.5838a8b2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a25fd849.js",
+    "static/js/2.f16a1d26.chunk.js",
+    "static/css/main.1337df22.chunk.css",
+    "static/js/main.00787c4a.chunk.js"
+  ]
+}
